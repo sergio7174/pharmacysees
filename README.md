@@ -77,10 +77,11 @@ $ npm start (to start the server), or nodemon server
 ##  Key Features:
 
 - Admin Area
-- Add/Edit/Delete Products,categorys,sales list, Users and Staff.
+- Add/Edit/Delete Products,categories,sales list, Users and Staff.
 - User Authenication
 - Admin  Authenication
 - See Product List, category List, User LIst, Sales list
+- Only available the sales module and Admin Modules: product create, category module, users Module.
 
 
 ##  Technologies used
